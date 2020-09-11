@@ -12,5 +12,4 @@ exports.get_status = function(req, res) {
 
 exports.setValue = function(teamId, value) {
 	memory[teamId] = value;
-		console.log("Value set memory[" + teamId + "] = " + value);
 }

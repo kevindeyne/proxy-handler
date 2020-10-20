@@ -10,7 +10,7 @@
   "author": "Kevin Deyne",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.6"
   },
   "dependencies": {
     "express": "^4.17.1",
